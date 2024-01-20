@@ -14,7 +14,9 @@ TextUtils is a simple React application that allows users to analyze and manipul
     npm start
 
 # Features
-
+## for start mongoose 
+```zsh
+sudo service mongod start 
 ## Dark/Light Mode Toggle
 - Toggle between dark and light modes using the button in the navigation bar.
 - Dark mode provides a different color scheme for better readability.
